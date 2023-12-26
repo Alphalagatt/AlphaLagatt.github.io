@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Alpha Lagatt</h1>
+      <h2>Empowering Tomorrow's Enterprises Today</h2>
+      <h3>Your IT Consulting Partner for Seamless Solutions Architecting, Cutting-Edge ERP and CRM Development, and Microsoft Business Applications Mastery.</h3>
+      <h5>Website Coming soon</h5>
+   
     </div>
   );
 }
