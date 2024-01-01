@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-cont{
+  padding: 2vmin;
+}
+
+.main-body-container{
+  display: flex;
+}
+
+.side-nav{
+  width: 10vw;
+}
+.side-nav img{
+  width: 10vw;
+}
+
+.main-nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-nav-sub-section-2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-nav-sub-section-2{
+  width: 15vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-body{
+
+}
+
+.sub-main-body{
+  display: flex;
+  padding-top: 10vh;
+}
+
+.main-body-words{
+  width: 40vw;
+}
+
+.main-body-my-Photo{
+  width: 40vw;
+}
+
+.main-body-my-Photo img{
+  width: 40vw;
+}
+
+
