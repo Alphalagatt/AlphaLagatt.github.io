@@ -6,13 +6,13 @@ function Nav(){
             lagattalpha@gmail.com
         </div>
         <div className="main-nav-sub-section-2">
-            <div>
+            <div className="main-nav-sub-section-2-item">
                 Projects
             </div>
-            <div>
+            <div className="main-nav-sub-section-2-item">
                 Resume
             </div>
-            <div>
+            <div className="main-nav-sub-section-2-item">
                 Blog
             </div>
         </div>
